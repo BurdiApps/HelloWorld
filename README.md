@@ -12,19 +12,20 @@ This is a simple Hello World program written in C++. It prints “Hello, World!�
 
 1. Clone the repository:
 2. 
-   git clone https://github.com/BurdiApps/HelloWorld.git
+   git clone https://github.com/BurdiApps/HelloWorld.git </br>
+
    cd HelloWorld
 
-3. Compile the program:
+4. Compile the program:
 
    g++ hello_world.cpp -o prog
    
-Run the program:
+5. Run the program:
   
-    ./prog
+   ./prog
     
-Video Demonstration
+### Video Demonstration
 Watch the video here: https://youtu.be/3OebvxHZJqE
 
 Time Spent
-Total time spent on this assignment: 30 minutes
+Total time spent: 2 hours
